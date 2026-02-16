@@ -220,7 +220,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media:
 
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/ahammad_muvaj/)
+- **Instagram**: [Follow me on Instagram](https://www.instagram.com/ahammad_muvaj/)
 - **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/ahammad-muvaj-388340316)
 
 Thank you for your support, and I look forward to connecting with you!

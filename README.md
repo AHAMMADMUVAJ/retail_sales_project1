@@ -1,4 +1,4 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales Analysis SQL & POWER BI Project
 
 ## Project Overview
 
@@ -6,7 +6,21 @@
 **Level**: Medium  
 **Database**: `sql_project1_db`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+This project demonstrates real-world SQL skills and data analysis techniques used by data analysts to explore, clean, and analyze retail sales data.
+
+The project covers the complete analytics workflow:
+
+Database creation
+
+Data cleaning
+
+Exploratory Data Analysis (EDA)
+
+Business-driven SQL queries
+
+Interactive Power BI Dashboard visualization
+
+This project is part of my portfolio showcasing practical SQL and Business Intelligence skills required for Data Analyst roles.
 
 ## Objectives
 
@@ -188,18 +202,71 @@ FROM hourly_sale
 GROUP BY shift
 ```
 
-## Findings
+📈 4️⃣ Power BI Dashboard
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+In addition to SQL analysis, an interactive Power BI dashboard was developed to visualize business insights.
 
-## Reports
+Dashboard Features
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
+📌 Total Sales KPI
+
+📌 Total Profit KPI (total_sale - cogs)
+
+📌 Total Transactions
+
+📌 Average Order Value
+
+📌 Sales by Category
+
+📌 Monthly Sales Trend
+
+📌 Gender-wise Sales Distribution
+
+📌 Top 5 Customers
+
+📌 Sales by Shift
+
+📌 Age Group Analysis
+
+📌 Interactive Filters (Date, Category, Gender)
+
+This dashboard enables dynamic exploration of sales performance and customer behavior.
+
+🔍 Key Findings
+
+Clothing and Beauty categories contributed the highest revenue.
+
+Several high-value transactions (>1000) indicate premium purchases.
+
+Monthly sales trends reveal seasonal fluctuations.
+
+Evening shifts showed higher transaction volume.
+
+Certain customers significantly contributed to overall revenue.
+
+🛠 Tools & Technologies
+
+PostgreSQL
+
+SQL (Advanced Queries, CTE, Window Functions)
+
+Power BI
+
+Data Cleaning Techniques
+
+Data Visualization
+
+🚀 Project Highlights
+
+End-to-end data analysis workflow
+
+Business-focused SQL problem solving
+
+Real-world KPI development
+
+Interactive dashboard creation
+
+Strong foundation for Data Analyst roles
 
 ## Conclusion
 
